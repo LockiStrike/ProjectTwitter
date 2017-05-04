@@ -1,12 +1,10 @@
-import tweepy
-from flask import Flask, request, render_template, redirect, session, jsonify, json, make_response
-from requests_oauthlib import OAuth1Session
-from db import DB
 import requests
-import os
-from pprint import pprint
+import tweepy
+from flask import Flask, request, redirect, session, jsonify
+from requests_oauthlib import OAuth1Session
 
 from data_file import consumer_token, consumer_secret
+from db import DB
 
 app = Flask(__name__)
 app.secret_key = "123"
