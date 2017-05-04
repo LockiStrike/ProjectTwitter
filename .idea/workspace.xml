@@ -37,11 +37,11 @@
       <file leaf-file-name="tw_app.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tw_app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="582">
-              <caret line="100" column="51" lean-forward="true" selection-start-line="100" selection-start-column="51" selection-end-line="100" selection-end-column="51" />
+            <state relative-caret-position="1220">
+              <caret line="61" column="24" lean-forward="false" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
               <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <marker date="1493733066796" expanded="true" signature="3055:3408" ph="..." />
+                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1493929136892" expanded="true" signature="2981:3334" ph="..." />
               </folding>
             </state>
           </provider>
@@ -50,8 +50,8 @@
       <file leaf-file-name="db.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="762">
-              <caret line="71" column="34" lean-forward="true" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+            <state relative-caret-position="1380">
+              <caret line="71" column="34" lean-forward="false" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
                 <marker date="1493732588747" expanded="true" signature="1558:1572" ph="SELECT * FRO... TwDb" />
@@ -74,7 +74,7 @@
       <file leaf-file-name="cursor.py" pinned="false" current-in-tab="false">
         <entry file="file:///usr/lib/python3/dist-packages/mysql/connector/cursor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
+            <state relative-caret-position="8940">
               <caret line="451" column="8" lean-forward="false" selection-start-line="451" selection-start-column="8" selection-end-line="451" selection-end-column="8" />
               <folding />
             </state>
@@ -207,7 +207,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -237,6 +236,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -760,7 +760,7 @@
     </entry>
     <entry file="file:///usr/lib/python3/dist-packages/mysql/connector/cursor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
+        <state relative-caret-position="8940">
           <caret line="451" column="8" lean-forward="false" selection-start-line="451" selection-start-column="8" selection-end-line="451" selection-end-column="8" />
           <folding />
         </state>
@@ -770,14 +770,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
           <caret line="161" column="23" lean-forward="false" selection-start-line="161" selection-start-column="23" selection-end-line="161" selection-end-column="23" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="762">
-          <caret line="71" column="34" lean-forward="true" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
+        <state relative-caret-position="1380">
+          <caret line="71" column="34" lean-forward="false" selection-start-line="71" selection-start-column="34" selection-end-line="71" selection-end-column="34" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
             <marker date="1493732588747" expanded="true" signature="1558:1572" ph="SELECT * FRO... TwDb" />
@@ -798,11 +797,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tw_app.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="582">
-          <caret line="100" column="51" lean-forward="true" selection-start-line="100" selection-start-column="51" selection-end-line="100" selection-end-column="51" />
+        <state relative-caret-position="1220">
+          <caret line="61" column="24" lean-forward="false" selection-start-line="61" selection-start-column="24" selection-end-line="61" selection-end-column="24" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
-            <marker date="1493733066796" expanded="true" signature="3055:3408" ph="..." />
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1493929136892" expanded="true" signature="2981:3334" ph="..." />
           </folding>
         </state>
       </provider>
